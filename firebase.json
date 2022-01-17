@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "serecipeh",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
