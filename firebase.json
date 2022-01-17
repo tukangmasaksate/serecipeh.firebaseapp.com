@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "serecipeh",
+    "target": "serecipeh",
     "public": "public",
     "ignore": [
       "firebase.json",
