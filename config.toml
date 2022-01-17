@@ -1,4 +1,4 @@
-baseURL = "https://serecipeh.web.app"
+baseURL = "https://serecipeh.firebaseapp.com"
 languageCode = "en-us"
 title = "serecipeh"
 theme = "z"
@@ -41,7 +41,7 @@ theme = "z"
   
 [author]
     name = "Clara Bernadette"
-    homepage = "https://serecipeh.web.app"
+    homepage = "https://serecipeh.firebaseapp.com"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
