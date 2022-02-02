@@ -1,6 +1,6 @@
-baseURL = "https://serecipeh.firebaseapp.com"
+baseURL = "https://serecipeh.web.app"
 languageCode = "en-us"
-title = "serecipeh"
+title = "Serecipeh"
 theme = "z"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "z"
 [params]
   description = "The place for over 1000 popular recipes for your complete cooking guide"
   topdescription = "The place for over 1000 popular recipes for your complete cooking guide"
-  toptitle = "serecipeh"
+  toptitle = "Serecipeh"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "z"
   
 [author]
     name = "Clara Bernadette"
-    homepage = "https://serecipeh.firebaseapp.com"
+    homepage = "https://serecipeh.web.app"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
